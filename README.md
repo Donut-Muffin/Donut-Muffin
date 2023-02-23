@@ -4,7 +4,6 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>PYTHON</li>
-  <li></li>
 </ul>
 ### Languages I have limited experience with:
 <ul>
