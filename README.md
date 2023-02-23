@@ -1,3 +1,5 @@
+<h1>About me</h1>
+<p>Hello my name is <strong>John</strong> and I'm from Ottawa. I like to make HTML websites and Python programs. My timezone is EST and the weather here is quite cold!</p>
 <h1>Languages I've coded in before:</h1>
 <ul>
   <li>HTML</li>
