@@ -12,7 +12,7 @@
   <li>C++</li>
   <li>PHP</li>
 </ul>
-<p>I mainly use Python and HTML for most of my projects. I am familiar with several python packages including requests, discord.py, tkinter, PIL (somewhat), pyautogui, pyinstaller and more!</p>
+<p>I mainly use Python and HTML for most of my projects. I am familiar with several python packages including requests, discord.py, tkinter, PIL (somewhat), pyautogui, pyinstaller and more! Alot of my GitHub commits are on private repos</p>
 
 
 
